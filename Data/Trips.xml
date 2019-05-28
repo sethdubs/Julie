@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trips>
+  <trip>
+    <tripName>Going to see Bae</tripName>
+    <locations>
+      <location>
+        <locationName>Seth's apt</locationName>
+        <address>13 Addison Park Dr, Huntsville, AL 35806</address>
+      </location>
+      <location>
+        <locationName>Julie's House</locationName>
+        <address>1615 Briarwood Dr, Lawrenceburg, TN 38464</address>
+      </location>
+    </locations>
+    <distance>63</distance>
+    <description>&lt;3</description>
+  </trip>
+</trips>

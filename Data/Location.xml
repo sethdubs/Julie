@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<locations>
+  <location>
+    <locationName>Seth's apt</locationName>
+    <address>13 Addison Park Dr, Huntsville, AL 35806</address>
+    <locationCode>123456</locationCode>
+  </location>
+  <location>
+    <locationName>Julie's House</locationName>
+    <address>1615 Briarwood Dr, Lawrenceburg, TN 38464</address>
+    <locationCode>Optional Location Code</locationCode>
+  </location>
+</locations>
